@@ -1,8 +1,9 @@
 RENCANA KONTEN ISOFT
-
 - Service HP
 - Vlog
-*pakai Hp
+*beli kamera
 - Beli Macbook Pro
 *mac book pro 19
 - Umrah
+- python
+- belajar php
