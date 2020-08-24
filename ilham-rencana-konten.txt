@@ -7,3 +7,4 @@ RENCANA KONTEN ISOFT
 - Beli Macbook Pro
 - Umrah
 - python
+- belajar php
